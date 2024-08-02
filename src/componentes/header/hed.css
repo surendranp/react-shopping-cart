@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#nav{
+    width: 100%;  
+    background-color: rgb(46, 209, 196);
+    display: flex;
+    justify-content: flex-end;
+    text-align: center;
+    position: fixed;
+    box-shadow: 0px 2px 8px 2px black;
+}
+.text1{
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    text-align: center;
+    
+}
+.text1 > a{
+    text-decoration: none;
+    padding:5px 30px;
+    font-size: 26px;
+    color: white;
+}

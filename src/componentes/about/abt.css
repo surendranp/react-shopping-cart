@@ -1,0 +1,28 @@
+
+
+
+.aboutcont1{
+    width: 100%;
+    background-color: rgba(78, 84, 84, 0.521);
+    margin-bottom: 1%;
+}
+
+.aboutcont2{
+    width: 50%;
+    background-color: #007b8bb7;
+}
+
+ 
+.redmore1{
+    padding-top: 15%;
+}
+.redmore2{
+    padding-top: 15%;
+    right: 35%;
+}
+.aboutcont2 img{
+   margin-left: 50%;
+}
+.container-fluid{
+    overflow: hidden;
+}

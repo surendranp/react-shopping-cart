@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Jost", sans-serif;
+  }
+  .logo1 h2 span{
+    font-size: 2.8rem;
+    /* background-color: #da5d5d; */
+    /* width: 5%; */
+    /* height: auto; */
+
+  }
+  .logo1 h2{
+    display: none;
+  }
+  .navbar{
+    -webkit-box-shadow: -1px 4px 14px -1px rgba(201,201,201,1);
+-moz-box-shadow: -1px 4px 14px -1px rgba(201,201,201,1);
+box-shadow: -1px 4px 14px -1px rgba(201,201,201,1);
+  }
+  img{
+    width: auto;
+    height: 50px;
+    /* background-color: #443b3b; */
+  }
+  @media (max-width: 600px) {
+    .logo1 h2{
+      display:block;
+    }
+    .logo1 img{
+      display: none;
+    }
+  }
